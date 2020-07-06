@@ -1,0 +1,6 @@
+.DS_Store
+Test*
+junit
+*.jar
+*.class
+codepost
